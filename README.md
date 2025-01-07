@@ -8,8 +8,6 @@
 - ⚡ Fun fact **I use English more than Korean while coding.**(Everyone does)
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">후원:</h3>
-토스뱅크 1001-5591-8527
 <br><br>
 <a href="https://www.buymeacoffee.com/tkgo11" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
