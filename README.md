@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **python, javascript**
 
-- ⚡ Fun fact **I use English more than Korean while coding.**(Everyone does)
+- ⚡ Fun fact **I'm currently in middle school.**
 
 <h3 align="left">Connect with me:</h3>
 <br><br>
