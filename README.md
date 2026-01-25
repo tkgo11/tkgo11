@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **python, javascript**
 
-- ⚡ Fun fact **I'm currently in middle school.**
+- ⚡ Fun fact **I'm a student**
 
 <h3 align="left">Connect with me:</h3>
 <br><br>
